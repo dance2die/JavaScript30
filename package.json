@@ -1,8 +1,7 @@
 {
-  "name": "JavaScript30-dave",
+  "name": "JavaScript30-by- davefollett",
   "version": "1.0.0",
   "description": "This fork is part of a blog series at [https://davefollett.io](https://davefollett.io) that re-implements each JavaScript30 project (that makes sense) with Vue.  All changes found here are not intended to be merged back into the original repository.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
