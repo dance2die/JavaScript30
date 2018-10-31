@@ -1,0 +1,20 @@
+{
+  "name": "JavaScript30-dave",
+  "version": "1.0.0",
+  "description": "This fork is part of a blog series at [https://davefollett.io](https://davefollett.io) that re-implements each JavaScript30 project (that makes sense) with Vue.  All changes found here are not intended to be merged back into the original repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dance2die/JavaScript30.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dance2die/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/dance2die/JavaScript30#readme"
+}
